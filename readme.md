@@ -5,6 +5,8 @@ This project focuses on creating an advanced digital assistant to improve user e
 
 - **Search:** Allowing users to swiftly and effectively locate information within the tool.
 - **Wireshark Analysis:** Enabling users to read and analyze data captured from Wireshark.
+
+- **PS**: The code of this repository is private, if you want to get access you can Contact me via Mail(rayen.nacef@ensi-uma.tn). 
 #  Project Setup
 To set up the virtual environement of the project:
 - Create a virtual environement with python using for ubuntu users:
